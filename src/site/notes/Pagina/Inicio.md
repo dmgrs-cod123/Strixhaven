@@ -4,8 +4,8 @@
 
 **Bienvenidos a Strixhaven**
 
-[[Pagina/Historia de Strixhaven\|Historia de Strixhaven]]
+**[[Pagina/Historia de Strixhaven\|Historia de Strixhaven]]**
 
-[[Pagina/Estudiantes\|Estudiantes]]
+**[[Pagina/Estudiantes\|Estudiantes]]**
 
-[[Pagina/Profesores y nuestro Staff\|Profesores y nuestro Staff]]
+**[[Pagina/Profesores y nuestro Staff\|Profesores y nuestro Staff]]**
